@@ -1,4 +1,4 @@
-# Tensorflow/Keras Lab: Digit Recognition
+# Tensorflow/Keras: Digit Recognition
 
 This is a submission to [Kaggle's Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) competition using a neural network built in Keras.
 
